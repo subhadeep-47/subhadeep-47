@@ -1,12 +1,8 @@
-## Hello there 👋
-- I am Subhadeep Chakraborty, a Web Application Security Researcher from India. 
+## Hi there👋, Myself Subhadeep-47
+- A Web Application Security Researcher from India. 
 - Active CTF player on OverTheWire
-- Documenting findings and drafting reports  
+- Publishing Write-Ups and reports
 
 ## Tools:
 - BurpSuite + Firefox (with custom add-ons)
-
-## Preferred labs:
-- DVWA
-- OWASP WebGoat
-- OWASP Juiceshop
+- Obsidian
