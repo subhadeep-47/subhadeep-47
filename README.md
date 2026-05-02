@@ -1,14 +1,13 @@
 ## Hi there👋, I'm Subhadeep Chakraborty
 Threat Researcher | Security Engineer | Python Developer
 
-
-## Areas of Study
+**Areas of Study**
 - Threat Intelligence
 - Network and Email Forensics
 - Threat Detection and Incident Response
 - Event Monitoring & Log Analysis
 
-Tools & Technologies
+**Tools & Technologies**
 ```
 Languages: Python, C/C++, Bash
 Security Tools: BurpSuite, Wireshark, Metasploit, Nmap
